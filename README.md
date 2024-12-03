@@ -7,7 +7,7 @@
 
 # My Skills
 
-![Languages](https://skillicons.dev/icons?i=js,ts,php,py)
+![Languages](https://skillicons.dev/icons?i=js,ts,php,py,html,css)
 
 ![Front-End](https://skillicons.dev/icons?i=react,electron,materialui,redux,vite)
 
