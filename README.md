@@ -6,10 +6,10 @@
 - ⚡ Fun fact: ...
 
 # My Skills
-Languages: ![Languages](https://skillicons.dev/icons?i=js,ts,php,py,html,css)<br>
-Front-End Skills: ![Front-End](https://skillicons.dev/icons?i=react,electron,materialui,redux,vite)<br>
-Backend-End Skills: ![Backend-End](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase)<br>
-Tools & Software Skills: ![Software Skills](https://skillicons.dev/icons?i=powershell,git,github,npm,docker,vscode,obsidian,notion,gmail,wordpress)<br>
+Languages:<br>![Languages](https://skillicons.dev/icons?i=js,ts,php,py,html,css)<br>
+Front-End Skills:<br>![Front-End](https://skillicons.dev/icons?i=react,electron,materialui,redux,vite)<br>
+Backend-End Skills:<br>![Backend-End](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase)<br>
+Tools & Software Skills:<br>![Software Skills](https://skillicons.dev/icons?i=powershell,git,github,npm,docker,vscode,obsidian,notion,gmail,wordpress)<br>
 
 <!---
 algorithmikos/algorithmikos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
