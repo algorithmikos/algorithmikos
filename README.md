@@ -4,8 +4,6 @@ I came to software through language. A background in German Studies taught me th
 
 I write in **TypeScript** because ambiguity is expensive. I build with **Node.js and React** because I know them well enough to be honest about their limits. And I am currently learning **Python and NLP** — because meaning encoded in text is a problem I find genuinely worth solving.
 
----
-
 ## What I'm Building
 
 **Nizamiyyah** · *Live*
@@ -19,15 +17,11 @@ An AI-integrated mathematics learning application for school students. The goal 
 
 *Earlier projects — Teryaq (a Type 1 diabetes companion app) and Conquer (personal task management) — remain functional and are part of the journey that brought me here.*
 
----
-
 ## Current Focus
 
 - 🌱 Deepening my understanding of **Python, NLP, and LLM integration**
 - 🔍 Studying ERP-scale system design
 - 📖 Reading widely — on language, cognition, and the structures that hold complex systems together
-
----
 
 ## Skills
 
