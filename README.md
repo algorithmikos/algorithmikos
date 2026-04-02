@@ -38,13 +38,13 @@ An AI-integrated mathematics learning application for school students. The goal 
 ![Frontend](https://skillicons.dev/icons?i=react,redux,materialui,electron)<br><br>
 
 **Backend & Databases**<br>
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql)<br><br>
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,cloudflare,wordpress,firebase,appwrite,supabase)<br><br>
 
 **DevOps & Infrastructure**<br>
-![DevOps](https://skillicons.dev/icons?i=linux,docker,apache)<br><br>
+![DevOps](https://skillicons.dev/icons?i=linux,git,docker,apache)<br><br>
 
 **Tools & Workflow**<br>
-![Tools](https://skillicons.dev/icons?i=git,github,wordpress,npm,vscode,obsidian)<br><br>
+![Tools](https://skillicons.dev/icons?i=github,vscode,obsidian)<br><br>
 
 ---
 
